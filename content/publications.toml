@@ -1,0 +1,4 @@
+type = "publication"
+title = "Research"
+description = "Theses and research projects."
+source = "publications.bib"

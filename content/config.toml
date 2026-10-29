@@ -1,0 +1,70 @@
+[site]
+title = "Zili Yang"
+description = "PhD applicant in Film and Media Studies — media industries, American independent cinema, and A24."
+favicon = "/favicon.svg"
+last_updated = "October 2026"
+
+[author]
+name = "Zili Yang"
+title = "PhD Applicant"
+institution = "Film and Media Studies"
+avatar = "/bio.jpg"
+
+[social]
+# Leave a field out (or empty) to hide that item.
+email = "843804016@qq.com"
+google_scholar = ""
+orcid = ""
+github = ""
+linkedin = ""
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+# "fixed" keeps the site in one language (still switchable); "auto" follows the browser.
+mode = "fixed"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Research"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Experience"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

@@ -1,0 +1,38 @@
+type = "card"
+title = "Experience"
+description = "Editorial work, academic event organizing, and media production."
+
+[[items]]
+title = "Stage and Screen Reviews"
+subtitle = "Editorial Intern"
+date = "2025"
+content = "A bi-monthly academic journal in drama, film and television studies. Conducted second-round editorial review of manuscripts that passed initial screening, evaluated content and provided revision suggestions, and proofread for language, formatting and references."
+tags = ["Editorial", "Journal"]
+
+[[items]]
+title = "China Film Education and Industry Forum, 2024 Golden Rooster Film Festival"
+subtitle = "Assistant Organizer"
+date = "2024"
+content = "Coordinated speakers' presentation arrangements before the event, including collecting and organizing presentation materials. Managed on-site multimedia operations — presentation delivery, timekeeping, and coordination of the forum proceedings."
+tags = ["Conference", "Organizing"]
+
+[[items]]
+title = "Academic Symposium on Science Fiction Film and Industry"
+subtitle = "Guest Relations Coordinator"
+date = "2023"
+content = "Communicated with five assigned invited guests and kept them updated on schedule changes; served as primary point of contact, managing reception and resolving inquiries throughout the conference."
+tags = ["Conference", "Guest Relations"]
+
+[[items]]
+title = "\"What Left Unsaid\" (short film)"
+subtitle = "Production Designer"
+date = "2022"
+content = "A film about a woman who has unexpectedly lost her speech and is caught in a sudden romance that forces her to confront her inner trauma. Selected for the Joint Screening Program at the Fujian Provincial College Film and Television Graduation Showcase."
+tags = ["Production", "Short Film"]
+
+[[items]]
+title = "Beijing Six-Speed Media Co., Ltd."
+subtitle = "Television Publicity Intern"
+date = "2022"
+content = "Contributed to social media marketing campaigns for two television dramas, *My Superhero* and *Nobody Knows*, on Douyin and Weibo. Built campaigns around discussions of unrealistic portrayals of protagonists in domestic dramas; some became trending topics on Weibo with over 100 million cumulative views. Analyzed weekly trending-topic data to track audience interests and inform publicity planning."
+tags = ["Publicity", "Industry"]

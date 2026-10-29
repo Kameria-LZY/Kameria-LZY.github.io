@@ -1,0 +1,43 @@
+[site]
+title = "杨子力"
+description = "电影与媒体研究方向博士申请人 —— 媒介产业、美国独立电影与 A24。"
+last_updated = "2026 年 10 月"
+
+[author]
+name = "杨子力"
+title = "博士申请人"
+institution = "电影与媒体研究"
+
+[social]
+email = "843804016@qq.com"
+location = ""
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "研究"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "经历"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "教学"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

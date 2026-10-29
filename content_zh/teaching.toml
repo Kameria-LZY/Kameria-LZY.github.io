@@ -1,0 +1,9 @@
+type = "card"
+title = "教学"
+description = "我曾参与授课或助教的课程。"
+
+[[items]]
+title = "电影类型"
+subtitle = "助教"
+date = "2023"
+content = "协调 56 名学生的课堂报告与讨论；收发作业；向学生传达课程相关信息。"

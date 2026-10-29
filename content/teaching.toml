@@ -1,0 +1,10 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have assisted with."
+
+[[items]]
+title = "Film Genres"
+subtitle = "Teaching Assistant"
+date = "2023"
+content = "Coordinated 56 students' presentations and class discussions; collected and distributed assignments; communicated course-related information to students."
+tags = ["Undergraduate", "Film Studies"]
